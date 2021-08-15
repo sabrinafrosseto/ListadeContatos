@@ -1,0 +1,7 @@
+Cadastro - Lista de contatos
+Classe: Contatos;
+propriedades: {Nome, Email, Telefone, Idade)}
+métodos:{criar(), consultar(), atualizar(), excluir()}
+usar lista para ter mais maleabilidade no uso do espaço, ao invés de array, que é estático.
+aplicação console - que é executada em uma máquina, local, através do Console - terminal.
+interface, se der tempo.
